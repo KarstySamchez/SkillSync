@@ -1,0 +1,12 @@
+/home/chizaa/Documents/SkillSync/SkillSync/target/debug/deps/libhttparse-3af6dda08cdfa95f.rmeta: /home/chizaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/lib.rs /home/chizaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/iter.rs /home/chizaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/macros.rs /home/chizaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/simd/mod.rs /home/chizaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/simd/swar.rs /home/chizaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/simd/sse42.rs /home/chizaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/simd/avx2.rs /home/chizaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/simd/runtime.rs
+
+/home/chizaa/Documents/SkillSync/SkillSync/target/debug/deps/httparse-3af6dda08cdfa95f.d: /home/chizaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/lib.rs /home/chizaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/iter.rs /home/chizaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/macros.rs /home/chizaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/simd/mod.rs /home/chizaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/simd/swar.rs /home/chizaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/simd/sse42.rs /home/chizaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/simd/avx2.rs /home/chizaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/simd/runtime.rs
+
+/home/chizaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/lib.rs:
+/home/chizaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/iter.rs:
+/home/chizaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/macros.rs:
+/home/chizaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/simd/mod.rs:
+/home/chizaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/simd/swar.rs:
+/home/chizaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/simd/sse42.rs:
+/home/chizaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/simd/avx2.rs:
+/home/chizaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.4/src/simd/runtime.rs:
